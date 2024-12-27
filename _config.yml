@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Senior Data Scientist and ML Engineer leveraging advanced Machine 
   Learning algorithms to solve complex problems and uncover actionable 
   insights.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mi_blog" # the subpath of your site, e.g. /blog
+url: "https://mezaacor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mezaacor
 github_username:  mezaacor
 
