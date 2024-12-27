@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-![About me](./banner2.png)
+![About me](./banner2.PNG)
 
 Hi there! I’m a **Senior Data Scientist** with a knack for research and development—and yes, I’ve spent some time teaching at the [Central University of Venezuela](http://www.ucv.ve/), which means I love sharing knowledge (and probably overexplaining things). Right now, I’m navigating the exciting chaos of being a PhD candidate at the [University of Granada](https://doctorados.ugr.es/tic/).
 
