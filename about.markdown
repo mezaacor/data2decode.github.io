@@ -10,3 +10,5 @@ Hi there! I’m a **Senior Data Scientist** with a knack for research and develo
 This blog is my little corner of the internet where I unpack interesting topics, share cool ideas, and sprinkle in some handy tips from my journey. But don’t expect dry textbook-style posts—this blog is all about keeping things light, fun, and maybe a little geeky. Let’s dive into the wonderful world of data, Python, and tech together! 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mezaacor/),  explore my projects on [GitHub Repository](https://github.com/mezaacor), and check out my publications on [ResearchGate](https://www.researchgate.net/profile/Ronny-Meza)
+
+If you'd like to learn more about my professional background, you can download my [Curriculum Vitae]({{ "/assets/docs/CV_Data_Scientis_RMeza_24_english.pdf" | relative_url }}) in PDF format using the link.
